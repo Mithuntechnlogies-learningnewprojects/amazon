@@ -2,4 +2,8 @@
 hiiii
 hello
 chotu
+<<<<<<< HEAD
 
+=======
+hello iam from dev branch
+>>>>>>> development
